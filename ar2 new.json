@@ -1,0 +1,320 @@
+{
+  "PRIMARY": {
+    "ASSAULT RIFLES": {
+      "AK47": {
+        "DEFAULT": "1530238018",
+        "SUPPRESSED": "1530237195",
+        "STUNTED": "10286942350"
+      },
+      "AK74": {
+        "DEFAULT": "3459674238",
+        "SUPPRESSED": "3459675648"
+      },
+      "AKM": {
+        "DEFAULT": "3459676268",
+        "SUPPRESSED": "3459676976"
+      },
+      "AKS74U": {
+        "DEFAULT": "3459677863",
+        "SUPPRESSED": "3459679562",
+        "FILTERED SUPPRESSED": "10286943270"
+      },
+      "AUG": {
+        "DEFAULT": "2960443320",
+        "SUPPRESSED": "2960444472"
+      },
+      "AS VAL / VSS": {
+        "SUPPRESSED": "78780440145363"
+      },
+      "FAL": {
+        "DEFAULT": "1530239296",
+        "SUPPRESSED": "1530238868"
+      },
+      "G3": {
+        "DEFAULT": "2223717399",
+        "SUPPRESSED": "2223716222"
+      },
+      "M14": {
+        "DEFAULT": "1530240284",
+        "SUPPRESSED": "1530239840"
+      },
+      "M16": {
+        "DEFAULT": "1530241009",
+        "SUPPRESSED": "1530240644"
+      },
+      "M16A2": {
+        "DEFAULT": "1530242508",
+        "SUPPRESSED": "1530242137"
+      },
+      "Mini-14": {
+        "DEFAULT": "1655106381",
+        "SUPPRESSED": "1655107371"
+      },
+      "SKS": {
+        "DEFAULT": "1655113050",
+        "SUPPRESSED": "1655112034"
+      },
+      "SVT-40": {
+        "DEFAULT": "15021482194",
+        "SUPPRESSED": "15021482274"
+      },
+      "XM177": {
+        "DEFAULT": "1472615851",
+        "SUPPRESSED": "1472616134"
+      }
+    },
+
+    "CARBINES / RIFLES": {
+      "Camp Carbine": {
+        "DEFAULT": "2960447374",
+        "SUPPRESSED": "2960448396"
+      },
+      "M1 Carbine": {
+        "DEFAULT": "14959681754",
+        "SUPPRESSED": "15021482099"
+      },
+      "M2 Carbine": {
+        "DEFAULT": "101802631355434"
+      },
+      "Ruger Model 44 Carbine": {
+        "DEFAULT": "70596495321749",
+        "SUPPRESSED": "99556108732130"
+      },
+      "Model 1894": {
+        "DEFAULT": "1655239651",
+        "SUPPRESSED": "1655110153",
+        "CARBINE": "10286942860"
+      },
+      "Model 788": {
+        "DEFAULT": "1655109170",
+        "SUPPRESSED": "1655108306",
+        "CARBINE": "10286943117"
+      },
+      "M1941": {
+        "DEFAULT": "2223719613",
+        "SUPPRESSED": "2223717955"
+      },
+      "M1 Garand": {
+        "DEFAULT": "2223722662",
+        "SUPPRESSED": "2223721313"
+      }
+    },
+
+    "SNIPER / DMR": {
+      "Dragunov SVD": {
+        "DEFAULT": "14959690895",
+        "SUPPRESSED": "15021482335"
+      },
+      "L96": {
+        "DEFAULT": "2223720895",
+        "SUPPRESSED": "2223720068"
+      },
+      "M1903": {
+        "DEFAULT": "1655115076",
+        "SUPPRESSED": "1655114229"
+      },
+      "M40A1": {
+        "DEFAULT": "15350341474",
+        "SUPPRESSED": "15350337866"
+      },
+      "Mosin Nagant": {
+        "DEFAULT": "2628271706",
+        "SUPPRESSED": "2628275525",
+        "OBREZ": "10286943560"
+      },
+      "PSG-1": {
+        "DEFAULT": "2223727866",
+        "SUPPRESSED": "2223727376"
+      },
+      "M1918 Tankgewehr": {
+        "DEFAULT": "14136585120"
+      }
+    },
+
+    "LMG": {
+      "BAR": {
+        "DEFAULT": "1655101107",
+        "SUPPRESSED": "1655100449"
+      },
+      "Browning M1919": {
+        "DEFAULT": "2967463816"
+      },
+      "Browning M1919 Trooper": {
+        "DEFAULT": "17756637863",
+        "SUPPRESSED": "17756635332"
+      },
+      "M249": {
+        "DEFAULT": "1575636934",
+        "SUPPRESSED": "1575636405"
+      },
+      "M60": {
+        "DEFAULT": "1575635828",
+        "SUPPRESSED": "1575635357"
+      },
+      "Santa's Pig": {
+        "DEFAULT": "11822231436"
+      },
+      "PKM": {
+        "DEFAULT": "3791084248",
+        "SUPPRESSED": "2960449706"
+      },
+      "RPK": {
+        "DEFAULT": "94367401828469",
+        "SUPPRESSED": "90406209617972"
+      }
+    },
+
+    "SMG": {
+      "MP5": {
+        "DEFAULT": "2223726785",
+        "SUPPRESSED": "2223726068"
+      },
+      "MP-40": {
+        "DEFAULT": "3019881242",
+        "SUPPRESSED": "3020026472"
+      },
+      "M3A1": {
+        "DEFAULT": "1655099415",
+        "SUPPRESSED": "1655096977"
+      },
+      "Thompson": {
+        "DEFAULT": "1655132179",
+        "SUPPRESSED": "1655117777"
+      },
+      "Type 37": {
+        "DEFAULT": "10286942268"
+      },
+      "Patriot": {
+        "DEFAULT": "10286943463"
+      }
+    },
+
+    "SHOTGUNS": {
+      "Auto-5": {
+        "DEFAULT": "1530238453"
+      },
+      "Coach Gun": {
+        "DEFAULT": "1655094261"
+      },
+      "Maverick 88": {
+        "DEFAULT": "2223725379"
+      },
+      "SPAS-12": {
+        "DEFAULT": "1575639593"
+      }
+    }
+  },
+
+  "SECONDARY": {
+    "SMG": {
+      "AO-46": {
+        "DEFAULT": "14959687711"
+      },
+      "MAC10": {
+        "DEFAULT": "1655105536",
+        "SUPPRESSED": "1655102785",
+        "SNAKES SUPPRESSED": "10286942731"
+      },
+      "MAT-49": {
+        "DEFAULT": "96543021238399",
+        "SUPPRESSED": "80231564603392"
+      },
+      "PP-19 Bizon": {
+        "DEFAULT": "72588126149086",
+        "SUPPRESSED": "136731790430865"
+      },
+      "Uzi": {
+        "DEFAULT": "1575640834",
+        "SUPPRESSED": "1575640246"
+      },
+      "Vz.61 Skorpion": {
+        "DEFAULT": "129840805614211",
+        "SUPPRESSED": "120649488130939"
+      },
+      "MP5K": {
+        "DEFAULT": "1530243403",
+        "SUPPRESSED": "1530242923"
+      }
+    },
+
+    "SHOTGUNS": {
+      "Lupara": {
+        "DEFAULT": "2531026782"
+      },
+      "Broadside Lupara": {
+        "DEFAULT": "10286942588"
+      }
+    },
+
+    "PISTOLS": {
+      "Deagle": {
+        "DEFAULT": "1575633942",
+        "SUPPRESSED": "3869202810",
+        "GOLD": "10286942978"
+      },
+      "G17": {
+        "DEFAULT": "130769292831833",
+        "SUPPRESSED": "73705888113187"
+      },
+      "Hi Power": {
+        "DEFAULT": "2531027137",
+        "SUPPRESSED": "2531026982"
+      },
+      "M1911": {
+        "DEFAULT": "1591808667",
+        "SUPPRESSED": "1472615521",
+        "SILENT PARTNER": "10286942476"
+      },
+      "M9 Beretta": {
+        "DEFAULT": "2223724717",
+        "SUPPRESSED": "2223723717"
+      },
+      "Makarov": {
+        "DEFAULT": "2625483766",
+        "SUPPRESSED": "2625483970"
+      },
+      "P220 SIG": {
+        "DEFAULT": "132022741261854",
+        "SUPPRESSED": "121193523760584"
+      },
+      "TEC-9": {
+        "DEFAULT": "1655116918",
+        "SUPPRESSED": "1655116099"
+      },
+      "MK23": {
+        "DEFAULT": "109419768930404",
+        "SUPPRESSED": "134027116549327"
+      },
+      "Model 29": {
+        "DEFAULT": "1575637424"
+      },
+      "Model 459": {
+        "DEFAULT": "1575638695",
+        "SUPPRESSED": "1581177141"
+      },
+      "P38": {
+        "DEFAULT": "1655155573",
+        "SUPPRESSED": "1655154869"
+      },
+      "Python": {
+        "DEFAULT": "5969323135"
+      },
+      "M1909 Snub": {
+        "DEFAULT": "2496518716"
+      }
+    }
+  },
+
+  "SIGHTS": {
+    "Reflex": "4746793594",
+    "Holo": "4746779292",
+    "CQR": "4746792007",
+    "Soviet Reflex": "103049569275110",
+  },
+
+  "HIT SOUNDS": {
+    "HEAD": "2062016772",
+    "BODY": "2062015952",
+    "LIMB": "6659353525"
+  }
+}
