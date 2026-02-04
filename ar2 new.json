@@ -305,12 +305,70 @@
     }
   },
 
-  "SIGHTS": {
-    "Reflex": "4746793594",
-    "Holo": "4746779292",
-    "CQR": "4746792007",
-    "Soviet Reflex": "103049569275110"
+  "AR2 SIGHTS":{
+  "Red Dots":{
+    "CQR Sight":{
+      "Frame":"2069293174",
+      "Glass":"1732511309",
+      "Interior":"1732751354",
+      "Reticle":"4746792007"
+    },
+    "Holographic Sight":{
+      "Frame":"1737292129",
+      "Glass":"1737293270",
+      "Reticle":"4746779292"
+    },
+    "Kobra Sight":{
+      "Frame":"1767958410",
+      "Glass":"1767959049",
+      "Reticle":"4746794826"
+    },
+    "Soviet Reflex Sight":{
+      "Base":"107571498846400",
+      "Frame":"109976005746929",
+      "Glass":"94778288717817",
+      "Reticle":"103049569275110",
+      "ProjectionPlane":"87041393888891",
+      "Sightline":"105092341449999"
+    },
+    "Reflex Sight":{
+      "Frame":"1767606995",
+      "Glass":"1767582584",
+      "Reticle":"4746793594"
+    }
   },
+  "Scopes":{
+    "OCR Sight":{
+      "Frame":"2924158936",
+      "Glass":"1731231764",
+      "Interior":"1732743088",
+      "Front Reticle":"1785366222",
+      "Back Reticle":"4482227125"
+    },
+    "Pelican Scope":{
+      "Frame":"2863847179",
+      "Glass":"2863847411",
+      "Interior":"2863859906",
+      "Front Reticle":"2864362358",
+      "Back Reticle":"4482190620"
+    },
+    "Prism Scope":{
+      "Frame":"2843833474",
+      "Glass":"1773330615",
+      "Interior":"1773330186"
+    },
+    "Rifle Scope":{
+      "Frame":"2069338586",
+      "Glass":"1737328502",
+      "Interior":"1737327640",
+      "Front Reticle":"4482190174",
+      "Back Reticle":"4482190174"
+      }
+    }
+  },
+
+
+
 
   "HIT SOUNDS": {
     "HEAD": "2062016772",
@@ -318,5 +376,6 @@
     "LIMB": "6659353525"
   }
 }
+
 
 
