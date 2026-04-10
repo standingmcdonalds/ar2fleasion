@@ -379,13 +379,11 @@
   "ITEMS": {
     "Military Medkit": {
       "Mesh": "91451684275623",
-      "Lid Texture": "72549387336078"
+      "Texture": "72549387336078"
     },
     "Large Medkit": {
-      "Box Mesh": "2159041381",
-      "Clasps Mesh": "2159044542",
-      "Handle Mesh": "2159043393",
-      "Box Texture": "2159194323"
+      "Mesh": "74384564136420",
+      "Texture": "77384700403917"
     },
     "Military HB": {
       "Mesh": "15450805479",
