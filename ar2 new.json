@@ -378,10 +378,8 @@
 
   "ITEMS": {
     "Military Medkit": {
-      "Box Mesh": "2000693985",
-      "Clamps Mesh": "2000694925",
-      "Lid Mesh": "2136050867",
-      "Lid Texture": "2141122719"
+      "Mesh": "91451684275623",
+      "Lid Texture": "72549387336078"
     },
     "Large Medkit": {
       "Box Mesh": "2159041381",
