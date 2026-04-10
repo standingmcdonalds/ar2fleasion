@@ -374,7 +374,35 @@
     "HEAD": "2062016772",
     "BODY": "2062015952",
     "LIMB": "6659353525"
-  }
+  },
+
+  "ITEMS": {
+    "Military Medkit": {
+      "Box Mesh": "2000693985",
+      "Clamps Mesh": "2000694925",
+      "Lid Mesh": "2136050867",
+      "Lid Texture": "2141122719"
+    },
+    "Large Medkit": {
+      "Box Mesh": "2159041381",
+      "Clasps Mesh": "2159044542",
+      "Handle Mesh": "2159043393",
+      "Box Texture": "2159194323"
+    },
+    "Military HB": {
+      "Mesh": "15450805479",
+      "Texture": "15499323392"
+    },
+    "Military FD": {
+      "Mesh": "2159047827",
+      "Texture": "2159714159"
+    },
+    "Bandage": {
+      "Mesh": "15451513241",
+      "Texture": "15473592128"
+    }
+  }    
+    
 }
 
 
