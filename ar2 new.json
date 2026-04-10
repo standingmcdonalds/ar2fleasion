@@ -396,6 +396,13 @@
     "Bandage": {
       "Mesh": "15451513241",
       "Texture": "15473592128"
+    },
+    "Officer Saber": {
+      "Blade Mesh": "16358087989",
+      "Platform Mesh": "16358093632",
+      "Handguard Mesh": "16358088897",
+      "Handle Mesh": "16358094548",
+      "Trail Texture": "10974165209"
     }
   }    
     
